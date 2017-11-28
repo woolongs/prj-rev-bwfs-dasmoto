@@ -1,0 +1,38 @@
+h1 {
+  font-family: Arial;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+h2 {
+  font-family: Verdana;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+h3 {
+  font-family: Arial;
+}
+.mediumspringgreen {
+  background-color: mediumspringgreen;
+}
+.lightcoral {
+  background-color: lightcoral;
+}
+.skyblue {
+  background-color: skyblue;
+}
+.main-heading {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+p {
+  font-family: Verdana;
+}
+.price {
+  font-weight: bold;
+  color: blue;
+}
+body {
+  background-color: PapayaWhip;
+}
